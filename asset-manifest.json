@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newjs-calculator-freecodecamp-project/static/css/main.1c168f2c.css",
+    "main.js": "/newjs-calculator-freecodecamp-project/static/js/main.add2766e.js",
+    "static/js/787.24b319d6.chunk.js": "/newjs-calculator-freecodecamp-project/static/js/787.24b319d6.chunk.js",
+    "index.html": "/newjs-calculator-freecodecamp-project/index.html",
+    "main.1c168f2c.css.map": "/newjs-calculator-freecodecamp-project/static/css/main.1c168f2c.css.map",
+    "main.add2766e.js.map": "/newjs-calculator-freecodecamp-project/static/js/main.add2766e.js.map",
+    "787.24b319d6.chunk.js.map": "/newjs-calculator-freecodecamp-project/static/js/787.24b319d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c168f2c.css",
+    "static/js/main.add2766e.js"
+  ]
+}
